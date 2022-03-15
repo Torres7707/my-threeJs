@@ -33,7 +33,7 @@ cube3.position.x = 2;
 group.add(cube3);
 
 // Axes Helper
-const axesHelper = new THREE.AxisHelper(2);
+const axesHelper = new THREE.AxesHelper(2);
 scene.add(axesHelper);
 
 // Sizes
