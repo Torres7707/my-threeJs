@@ -1,6 +1,5 @@
 import './style.css';
 import * as THREE from 'three';
-import { getDefaultCompilerOptions } from 'typescript';
 
 // Scene
 const scene = new THREE.Scene();
